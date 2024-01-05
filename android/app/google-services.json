@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "645488134702",
+    "firebase_url": "https://uberapp-db564-default-rtdb.firebaseio.com",
+    "project_id": "uberapp-db564",
+    "storage_bucket": "uberapp-db564.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645488134702:android:d7c2b6502fbbeff8042dbf",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPjlJyCsIqeIlLCabUaqiYf3oVe__mSsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645488134702:android:50e1514c85d83b24042dbf",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPjlJyCsIqeIlLCabUaqiYf3oVe__mSsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645488134702:android:a8fcd221ead8199f042dbf",
+        "android_client_info": {
+          "package_name": "com.example.users_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPjlJyCsIqeIlLCabUaqiYf3oVe__mSsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
